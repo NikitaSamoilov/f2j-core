@@ -1,4 +1,6 @@
-package org.f2j;
+package org.f2j.impl;
+
+import org.f2j.Word;
 
 import java.util.ArrayList;
 import java.util.List;

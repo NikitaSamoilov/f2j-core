@@ -1,4 +1,6 @@
-package org.f2j;
+package org.f2j.impl;
+
+import org.f2j.Word;
 
 public class BaseWord extends Word {
 
